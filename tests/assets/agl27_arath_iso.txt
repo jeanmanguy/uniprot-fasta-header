@@ -1,0 +1,4 @@
+>sp|Q9AT76|AGL27_ARATH Agamous-like MADS-box protein AGL27 OS=Arabidopsis thaliana OX=3702 GN=AGL27 PE=1 SV=1
+>sp|Q9AT76-2|AGL27_ARATH Isoform 2 of Agamous-like MADS-box protein AGL27 OS=Arabidopsis thaliana OX=3702 GN=AGL27
+>sp|Q9AT76-3|AGL27_ARATH Isoform 3 of Agamous-like MADS-box protein AGL27 OS=Arabidopsis thaliana OX=3702 GN=AGL27
+>sp|Q9AT76-4|AGL27_ARATH Isoform 4 of Agamous-like MADS-box protein AGL27 OS=Arabidopsis thaliana OX=3702 GN=AGL27
